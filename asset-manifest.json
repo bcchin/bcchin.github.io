@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bcchin.github.io/static/css/main.dba6981a.css",
-    "main.js": "/bcchin.github.io/static/js/main.716a6c24.js",
-    "static/js/787.30237536.chunk.js": "/bcchin.github.io/static/js/787.30237536.chunk.js",
-    "static/media/headshot.jpg": "/bcchin.github.io/static/media/headshot.6074afe0c243d94f5277.jpg",
-    "static/media/Bonnie_Chin_Resume_2023.pdf": "/bcchin.github.io/static/media/Bonnie_Chin_Resume_2023.deb21895c01744ac7488.pdf",
-    "index.html": "/bcchin.github.io/index.html",
-    "main.dba6981a.css.map": "/bcchin.github.io/static/css/main.dba6981a.css.map",
-    "main.716a6c24.js.map": "/bcchin.github.io/static/js/main.716a6c24.js.map",
-    "787.30237536.chunk.js.map": "/bcchin.github.io/static/js/787.30237536.chunk.js.map"
+    "main.css": "/static/css/main.14a9aab7.css",
+    "main.js": "/static/js/main.995e0623.js",
+    "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
+    "static/media/headshot.jpg": "/static/media/headshot.6074afe0c243d94f5277.jpg",
+    "static/media/Bonnie_Chin_Resume_2023.pdf": "/static/media/Bonnie_Chin_Resume_2023.deb21895c01744ac7488.pdf",
+    "index.html": "/index.html",
+    "main.14a9aab7.css.map": "/static/css/main.14a9aab7.css.map",
+    "main.995e0623.js.map": "/static/js/main.995e0623.js.map",
+    "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dba6981a.css",
-    "static/js/main.716a6c24.js"
+    "static/css/main.14a9aab7.css",
+    "static/js/main.995e0623.js"
   ]
 }
