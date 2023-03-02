@@ -1,0 +1,61 @@
+.left-col, .right-col {
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+
+.home-title, .home-subtitle {
+    color: #A0D49D;
+    text-align: left;
+}
+
+.home-title {
+    font-size: 5rem;
+}
+
+.home-subtitle {
+    font-size: 4rem;
+}
+
+.blurb {
+    margin: 10px;
+}
+
+.resume {
+    margin: 10px;
+}
+
+.resume-link:hover {
+    font-style: none;
+    text-decoration: none;
+}
+
+.socialMedia a {
+    color: #A0D49D;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.socialMedia a:hover {
+    color:grey;
+    font-style: none;
+    text-decoration: none;
+}
+
+#headshot-col {
+    width: fit-content;
+    justify-content: center;
+}
+
+.headshot {
+    border-style: outset;
+    border-width: 10px;;
+    border-color: #FFC0CB;
+    border-radius: 50%;
+    width: 85%;
+    height: 115%;
+    object-fit: cover;
+    display: flex;
+}
