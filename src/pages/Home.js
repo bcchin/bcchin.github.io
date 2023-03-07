@@ -17,7 +17,7 @@ function Home() {
 
         <Container>
             <Row>
-                <Col class="left-col">
+                <Col className="left-col">
                     <div><h1 class="home-title">Hello, World! 👋<br />I'm <span>Bonnie</span></h1></div>
                     <div class="home-subtitle">
                         <Typewriter
@@ -53,8 +53,8 @@ function Home() {
                         </a>
                     </div>
                 </Col>
-                <Col class="right-col">
-                    <Image class="headshot"
+                <Col className="right-col">
+                    <Image className="headshot"
                         src={headshot}
                         alt="a photo of me in munich" 
                         fluid
