@@ -34,7 +34,7 @@ function Home() {
                     <br/>
                     <div class="resume">
                         <a href={resume} class="resume-link" target="_blank" rel="noreferrer">
-                            <button>résumé</button>
+                            <button>click to view my résumé</button>
                         </a>
                     </div>
                     <br/>

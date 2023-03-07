@@ -29,6 +29,22 @@
     text-decoration: none;
 }
 
+button {
+    background: #fadadf;
+    border-color: #FFC0CB;
+    border-radius: 5px;
+    color:lightcoral;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: all 0.5s;
+    box-shadow: 0 0 0 #FFC0CB;
+}
+
+button:hover {
+    box-shadow: 10px 10px #A0D49D;
+}
+
 .socialMedia a {
     color: #A0D49D;
     text-decoration: none;
@@ -54,7 +70,7 @@
     border-width: 10px;;
     border-color: #FFC0CB;
     border-radius: 50%;
-    width: 85%;
+    width: 100%;
     height: 115%;
     object-fit: cover;
     display: flex;
