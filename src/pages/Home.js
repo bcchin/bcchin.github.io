@@ -32,21 +32,21 @@ function Home() {
                         <p><i>* i am currently pursuing full-time software engineering opportunities *</i></p>
                     </div>
                     <div className="resume">
-                        <a href={resume} class="resume-link" target="_blank">
+                        <a href={resume} class="resume-link" target="_blank" rel="noreferrer">
                             <button>résumé</button>
                         </a>
                     </div>
                     <div className="socialMedia">
-                        <a href="https://www.linkedin.com/in/bonniechin" target="_blank">
+                        <a href="https://www.linkedin.com/in/bonniechin" target="_blank" rel="noreferrer">
                             <BsLinkedin />
                         </a>
-                        <a href="https://www.instagram.com/bonnie.chin/" target="_blank">
+                        <a href="https://www.instagram.com/bonnie.chin/" target="_blank" rel="noreferrer">
                             <BsInstagram />
                         </a>
-                        <a href="https://github.com/bcchin" target="_blank">
+                        <a href="https://github.com/bcchin" target="_blank" rel="noreferrer">
                             <BsGithub />
                         </a>
-                        <a href="https://www.flickr.com/photos/148300792@N03/" target="_blank">
+                        <a href="https://www.flickr.com/photos/148300792@N03/" target="_blank" rel="noreferrer">
                             <FaFlickr />
                         </a>
                     </div>
