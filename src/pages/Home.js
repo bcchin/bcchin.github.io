@@ -17,9 +17,9 @@ function Home() {
 
         <Container>
             <Row>
-                <Col className="left-col">
-                    <div><h1 className="home-title">Hello, World! 👋<br />I'm <span>Bonnie</span></h1></div>
-                    <div className="home-subtitle">
+                <Col class="left-col">
+                    <div><h1 class="home-title">Hello, World! 👋<br />I'm <span>Bonnie</span></h1></div>
+                    <div class="home-subtitle">
                         <Typewriter
                             options={{
                                 strings: ['a developer', 'a creator', 'a traveler', 'a music lover'],
@@ -28,15 +28,17 @@ function Home() {
                             }}
                         />
                     </div>
-                    <div className="blurb">
+                    <div class="blurb">
                         <p><i>* i am currently pursuing full-time software engineering opportunities *</i></p>
                     </div>
-                    <div className="resume">
+                    <br/>
+                    <div class="resume">
                         <a href={resume} class="resume-link" target="_blank" rel="noreferrer">
                             <button>résumé</button>
                         </a>
                     </div>
-                    <div className="socialMedia">
+                    <br/>
+                    <div class="socialMedia">
                         <a href="https://www.linkedin.com/in/bonniechin" target="_blank" rel="noreferrer">
                             <BsLinkedin />
                         </a>
@@ -51,8 +53,8 @@ function Home() {
                         </a>
                     </div>
                 </Col>
-                <Col className="right-col">
-                    <Image className="headshot"
+                <Col class="right-col">
+                    <Image class="headshot"
                         src={headshot}
                         alt="a photo of me in munich" 
                         fluid
